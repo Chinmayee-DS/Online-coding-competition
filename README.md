@@ -1,0 +1,2 @@
+In the solution, i have created 'sol' which contains all the non-overlapping 2X2 sub matrices. Although i have printed only the sub matrix containing the smallest element becuase of the ambiguity whether all the sub matrices are needed or not. If that is not needed 'sol' need not be [16][2][2].
+I have printed the sub matrix, smallest element in sub matrix and the index of the smallest element according to 8X8 matrix.
